@@ -55,7 +55,7 @@
 }
 .banner .content h1{
     font-family: 'ICA Rubrik';
-    font-size: 16em;
+    font-size: 5em;
     line-height: 1em;
     color: #25283B;
     position: relative;
@@ -72,6 +72,7 @@
     font-family: Poppins;
     text-align: right;
     max-width: 200px;
+    padding-right: 20px;
 }
 .banner .content h2{
     font-size: 3em;
